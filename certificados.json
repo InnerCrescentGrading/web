@@ -1,12 +1,12 @@
 {
-  "IC000003": {
-    "nombre": "Charizard Base Set",
-    "grado": "10",
-    "idioma": "Español",
+  "IC000001": {
+    "nombre": "Typhlosion EX - #13 - 2003 - Miracle Of The Desert",
+    "grado": "1",
+    "idioma": "Japanese",
     "fecha": "03/05/2024",
-    "imagen": "charizard.jpg"
+    "imagen": "typhlosion13.jpg"
   },
-  "IC000004": {
+  "IC000002": {
     "nombre": "Pikachu Illustrator",
     "grado": "9",
     "idioma": "Japonés",
