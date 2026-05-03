@@ -1,16 +1,16 @@
 {
   "IC000001": {
-    "nombre": "Typhlosion EX - #13 - 2003 - Miracle Of The Desert",
+    "nombre": "Typhlosion EX - #13 - Miracle Of The Desert",
     "grado": "1",
     "idioma": "Japanese",
-    "fecha": "03/05/2024",
+    "fecha": "2003",
     "imagen": "typhlosion13.jpg"
   },
   "IC000002": {
-    "nombre": "Pikachu Illustrator",
-    "grado": "9",
-    "idioma": "Japonés",
-    "fecha": "04/05/2024",
-    "imagen": "pikachu.jpg"
+    "nombre": "Ethan's Tyhplosion - #70 - Heat Wave Arena",
+    "grado": "10",
+    "idioma": "Japanese",
+    "fecha": "2025",
+    "imagen": "typhlosion70.jpg"
   }
 }
