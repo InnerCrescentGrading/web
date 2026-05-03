@@ -1,0 +1,16 @@
+{
+  "IC000003": {
+    "nombre": "Charizard Base Set",
+    "grado": "10",
+    "idioma": "Español",
+    "fecha": "03/05/2024",
+    "imagen": "charizard.jpg"
+  },
+  "IC000004": {
+    "nombre": "Pikachu Illustrator",
+    "grado": "9",
+    "idioma": "Japonés",
+    "fecha": "04/05/2024",
+    "imagen": "pikachu.jpg"
+  }
+}
